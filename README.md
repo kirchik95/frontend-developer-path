@@ -1,1 +1,1 @@
-# frontend-developer-path
+This repository will contain the courses and books I am studying while working as a frontend developer. I will share all the materials here, along with links, ratings out of 5 stars, and brief reviews.
